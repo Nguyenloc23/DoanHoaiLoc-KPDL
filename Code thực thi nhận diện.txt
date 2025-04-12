@@ -1,0 +1,1 @@
+python yolo_detect.py --model my_model.pt --source TEST.jpg --resolution 1280x720
